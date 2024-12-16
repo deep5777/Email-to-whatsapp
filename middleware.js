@@ -4,5 +4,4 @@ export function CheckLogin(req,res,next) {
   const username = body.username;
   const password = body.password;
 
-  if()expor
-}
+  }
